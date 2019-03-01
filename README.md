@@ -8,3 +8,6 @@ If you Need To Read Nassraht-Albaloot Private Policy [Nassraht-Albaloot](https:/
 If you Need To Read Water Intake Reminder Private Policy [Water Intake](https://welooksolutions.github.io/WelooksolutionsWeb/WaterIntake.html)
 
 If you Need To Read Water Intake Reminder Private Policy [Study Smart](https://welooksolutions.github.io/WelooksolutionsWeb/studysmartfree.html)
+
+If you Need To Read Nassrah Private Policy [Nassrah]
+(https://welooksolutions.github.io/WelooksolutionsWeb/Nassrah.html)
