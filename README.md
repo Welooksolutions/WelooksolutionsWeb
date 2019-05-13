@@ -9,5 +9,7 @@ If you Need To Read Water Intake Reminder Private Policy [Water Intake](https://
 
 If you Need To Read Water Intake Reminder Private Policy [Study Smart](https://welooksolutions.github.io/WelooksolutionsWeb/studysmartfree.html)
 
+If you Need To Read Time Manegment Private Policy [Time Manegment](https://welooksolutions.github.io/WelooksolutionsWeb/TimeManagement.html)
+
 If you Need To Read Nassrah Private Policy [Nassrah]
 (https://welooksolutions.github.io/WelooksolutionsWeb/Nassrah.html)
